@@ -49,3 +49,12 @@ input {
 p {
 	font-size: medium;
 }
+
+.postcard-footer {
+	text-align: center;
+}
+
+button {
+	background-color: gray;
+	padding: 8px;
+}
