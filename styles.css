@@ -3,7 +3,6 @@ body {
 }
 
 * {
-	border: 1px dashed red;
 	min-height: 10px;
 }
 
@@ -11,7 +10,7 @@ body {
 	background: white;
 	width: 400px;
 	height: 300px;
-	margin: auto;
+	margin: 10px;
 }
 
 .postcard-header {
@@ -57,4 +56,6 @@ p {
 button {
 	background-color: gray;
 	padding: 8px;
+	border: none;
+	color: white;
 }
